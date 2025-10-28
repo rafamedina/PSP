@@ -1,0 +1,8 @@
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\obj\Debug\Tik Tak Toe.csproj.AssemblyReference.cache
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\obj\Debug\Tik Tak Toe.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\bin\Debug\Tik Tak Toe.exe.config
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\bin\Debug\Tik Tak Toe.exe
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\bin\Debug\Tik Tak Toe.pdb
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\obj\Debug\Tik Tak Toe.exe
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\obj\Debug\Tik Tak Toe.pdb
+C:\Repositorio\PSP\Tik Tak Toe\Tik Tak Toe\obj\Debug\Tik Tak Toe.exe.config
