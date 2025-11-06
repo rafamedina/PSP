@@ -1,0 +1,8 @@
+C:\Repositorio\PSP\EjemploDebugging\Padre\bin\Debug\Padre.exe.config
+C:\Repositorio\PSP\EjemploDebugging\Padre\bin\Debug\Padre.exe
+C:\Repositorio\PSP\EjemploDebugging\Padre\bin\Debug\Padre.pdb
+C:\Repositorio\PSP\EjemploDebugging\Padre\obj\Debug\Padre.csproj.AssemblyReference.cache
+C:\Repositorio\PSP\EjemploDebugging\Padre\obj\Debug\Padre.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\EjemploDebugging\Padre\obj\Debug\Padre.exe
+C:\Repositorio\PSP\EjemploDebugging\Padre\obj\Debug\Padre.pdb
+C:\Repositorio\PSP\EjemploDebugging\Padre\obj\Debug\Padre.exe.config
