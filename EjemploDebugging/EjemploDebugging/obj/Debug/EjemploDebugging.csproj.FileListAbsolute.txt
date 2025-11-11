@@ -5,3 +5,4 @@ C:\Repositorio\PSP\EjemploDebugging\EjemploDebugging\obj\Debug\EjemploDebugging.
 C:\Repositorio\PSP\EjemploDebugging\EjemploDebugging\obj\Debug\EjemploDebugging.csproj.CoreCompileInputs.cache
 C:\Repositorio\PSP\EjemploDebugging\EjemploDebugging\obj\Debug\EjemploDebugging.exe
 C:\Repositorio\PSP\EjemploDebugging\EjemploDebugging\obj\Debug\EjemploDebugging.pdb
+C:\Repositorio\PSP\EjemploDebugging\EjemploDebugging\obj\Debug\EjemploDebugging.exe.config

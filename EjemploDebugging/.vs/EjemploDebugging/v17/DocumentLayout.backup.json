@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Repositorio\\PSP\\EjemploDebugging\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7E96ADB-A383-4504-A40B-9B9D1D72F360}|Padre\\Padre.csproj|c:\\repositorio\\psp\\ejemplodebugging\\padre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7E96ADB-A383-4504-A40B-9B9D1D72F360}|Padre\\Padre.csproj|solutionrelative:padre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0483F7C-6ABE-4E40-A459-C628894C4EC1}|EjemploDebugging\\EjemploDebugging.csproj|C:\\Repositorio\\PSP\\EjemploDebugging\\ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0483F7C-6ABE-4E40-A459-C628894C4EC1}|EjemploDebugging\\EjemploDebugging.csproj|solutionrelative:ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0483F7C-6ABE-4E40-A459-C628894C4EC1}|EjemploDebugging\\EjemploDebugging.csproj|c:\\repositorio\\psp\\ejemplodebugging\\ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0483F7C-6ABE-4E40-A459-C628894C4EC1}|EjemploDebugging\\EjemploDebugging.csproj|solutionrelative:ejemplodebugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7E96ADB-A383-4504-A40B-9B9D1D72F360}|Padre\\Padre.csproj|c:\\repositorio\\psp\\ejemplodebugging\\padre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E96ADB-A383-4504-A40B-9B9D1D72F360}|Padre\\Padre.csproj|solutionrelative:padre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\PSP\\EjemploDebugging\\Padre\\Program.cs",
               "RelativeDocumentMoniker": "Padre\\Program.cs",
               "ToolTip": "C:\\Repositorio\\PSP\\EjemploDebugging\\Padre\\Program.cs",
               "RelativeToolTip": "Padre\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T10:18:17.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\PSP\\EjemploDebugging\\EjemploDebugging\\Program.cs",
               "RelativeDocumentMoniker": "EjemploDebugging\\Program.cs",
               "ToolTip": "C:\\Repositorio\\PSP\\EjemploDebugging\\EjemploDebugging\\Program.cs",
               "RelativeToolTip": "EjemploDebugging\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwIsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T12:27:43.43Z",
               "EditorCaption": ""
