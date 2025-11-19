@@ -1,0 +1,5 @@
+C:\Repositorio\PSP\Canicas\Canicas\obj\Debug\net8.0\Canicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PSP\Canicas\Canicas\obj\Debug\net8.0\Canicas.AssemblyInfoInputs.cache
+C:\Repositorio\PSP\Canicas\Canicas\obj\Debug\net8.0\Canicas.AssemblyInfo.cs
+C:\Repositorio\PSP\Canicas\Canicas\obj\Debug\net8.0\Canicas.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\Canicas\Canicas\obj\Debug\net8.0\Canicas.sourcelink.json

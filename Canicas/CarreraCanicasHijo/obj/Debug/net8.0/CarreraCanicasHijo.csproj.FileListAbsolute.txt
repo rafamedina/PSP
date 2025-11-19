@@ -1,0 +1,15 @@
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.exe
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.deps.json
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.runtimeconfig.json
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.dll
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.pdb
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.AssemblyInfoInputs.cache
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.AssemblyInfo.cs
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.sourcelink.json
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.dll
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\refint\CarreraCanicasHijo.dll
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.pdb
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\CarreraCanicasHijo.genruntimeconfig.cache
+C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\obj\Debug\net8.0\ref\CarreraCanicasHijo.dll

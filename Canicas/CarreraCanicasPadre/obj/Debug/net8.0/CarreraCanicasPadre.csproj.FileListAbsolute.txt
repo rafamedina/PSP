@@ -1,0 +1,15 @@
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\bin\Debug\net8.0\CarreraCanicasPadre.exe
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\bin\Debug\net8.0\CarreraCanicasPadre.deps.json
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\bin\Debug\net8.0\CarreraCanicasPadre.runtimeconfig.json
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\bin\Debug\net8.0\CarreraCanicasPadre.dll
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\bin\Debug\net8.0\CarreraCanicasPadre.pdb
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.AssemblyInfoInputs.cache
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.AssemblyInfo.cs
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.sourcelink.json
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.dll
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\refint\CarreraCanicasPadre.dll
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.pdb
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\CarreraCanicasPadre.genruntimeconfig.cache
+C:\Repositorio\PSP\Canicas\CarreraCanicasPadre\obj\Debug\net8.0\ref\CarreraCanicasPadre.dll
