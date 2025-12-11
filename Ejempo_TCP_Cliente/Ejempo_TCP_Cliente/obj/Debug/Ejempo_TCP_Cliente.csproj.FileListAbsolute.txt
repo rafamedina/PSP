@@ -1,0 +1,8 @@
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\bin\Debug\Ejempo_TCP_Cliente.exe.config
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\bin\Debug\Ejempo_TCP_Cliente.exe
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\bin\Debug\Ejempo_TCP_Cliente.pdb
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\obj\Debug\Ejempo_TCP_Cliente.csproj.AssemblyReference.cache
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\obj\Debug\Ejempo_TCP_Cliente.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\obj\Debug\Ejempo_TCP_Cliente.exe
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\obj\Debug\Ejempo_TCP_Cliente.pdb
+C:\Repositorio\PSP\Ejempo_TCP_Cliente\Ejempo_TCP_Cliente\obj\Debug\Ejempo_TCP_Cliente.exe.config

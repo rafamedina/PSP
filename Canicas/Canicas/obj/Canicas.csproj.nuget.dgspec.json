@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Repositorio\\PSP\\Canicas\\Canicas\\Canicas.csproj",
         "projectName": "Canicas",
         "projectPath": "C:\\Repositorio\\PSP\\Canicas\\Canicas\\Canicas.csproj",
-        "packagesPath": "C:\\Users\\Ikran\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\CAMPUSFP\\.nuget\\packages\\",
         "outputPath": "C:\\Repositorio\\PSP\\Canicas\\Canicas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ikran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CAMPUSFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

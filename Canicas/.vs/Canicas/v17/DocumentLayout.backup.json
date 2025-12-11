@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -28,10 +28,15 @@
               "RelativeDocumentMoniker": "CarreraCanicasPadre\\Program.cs",
               "ToolTip": "C:\\Repositorio\\PSP\\Canicas\\CarreraCanicasPadre\\Program.cs",
               "RelativeToolTip": "CarreraCanicasPadre\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwBgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T11:52:57.625Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -41,7 +46,7 @@
               "RelativeDocumentMoniker": "CarreraCanicasHijo\\Program.cs",
               "ToolTip": "C:\\Repositorio\\PSP\\Canicas\\CarreraCanicasHijo\\Program.cs",
               "RelativeToolTip": "CarreraCanicasHijo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T11:44:24.44Z",
               "EditorCaption": ""

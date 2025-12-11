@@ -26,13 +26,12 @@ namespace CarreraCanicasPadre
         static void Main(string[] args)
         {
             // Configuración de la simulación:
-            int numPistas = 3;   // Número de procesos hijo que se lanzarán simultáneamente
+            int numPistas = 2;   // Número de procesos hijo que se lanzarán simultáneamente
             int numCanicas = 3;   // Número de hilos por proceso hijo
             int distancia = 200; // Distancia que cada canica debe recorrer
 
             // Ruta exacta al hijo (compilado previamente).
-            string rutaHijo =
-@"C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.exe";
+            string rutaHijo =@"C:\Repositorio\PSP\Canicas\CarreraCanicasHijo\bin\Debug\net8.0\CarreraCanicasHijo.exe";
 
             // Cancelar si el hijo no existe físicamente.
             if (!File.Exists(rutaHijo))
@@ -64,7 +63,7 @@ namespace CarreraCanicasPadre
                 info.Arguments = argumentos;        // Parámetros
                 info.UseShellExecute = false;       // Necesario para redirigir salida
                 info.RedirectStandardOutput = true; // Leeremos la salida del hijo
-                info.CreateNoWindow = true;         // No abrir ventana de consola
+                info.CreateNoWindow = true;         // No abrir ventana de consola del proceso hijo
 
                 // Crear el proceso hijo
                 Process hijo = new Process();

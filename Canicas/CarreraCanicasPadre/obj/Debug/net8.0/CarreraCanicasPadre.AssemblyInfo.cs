@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarreraCanicasPadre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0442bf31f638106c03853d439a27645199aad725")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2303ccba2c1c5c040ffc1775a73e1b24c36f0960")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarreraCanicasPadre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarreraCanicasPadre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

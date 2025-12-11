@@ -1,0 +1,8 @@
+C:\Repositorio\PSP\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Repositorio\PSP\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Repositorio\PSP\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Repositorio\PSP\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+C:\Repositorio\PSP\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Repositorio\PSP\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Repositorio\PSP\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Repositorio\PSP\TCPServer\TCPServer\obj\Debug\TCPServer.exe.config
