@@ -1,54 +1,90 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
+using System.Text;
+using System.Threading;
 
 namespace TCPServer
 {
     internal class Program
     {
+        TcpListener miserverguapo;
+        List<TcpClient> clientes = new List<TcpClient>();
+        int contador = 0;
+
         static void Main(string[] args)
         {
-            // servidor que escucha en cualquier IP Local 
-            TcpListener miserverguapo = new TcpListener(IPAddress.Any, 5000);
-            //Abrir el servidor
+            new Program().inicio();
+        }
+
+        public void inicio()
+        {
+            miserverguapo = new TcpListener(IPAddress.Any, 5000);
             miserverguapo.Start();
             Console.WriteLine("Esperando a que se conecte mi pana...");
-            
-
-
-            //es bloqueante se espera a que un cliente se conecte sin seguir con el codigo
-            TcpClient cliente = miserverguapo.AcceptTcpClient();
-            Console.WriteLine("Cliente Conectado");
-
-            //Obtener el flujo de datos asociado al socket del cliente en especifico
-            //Todo lo que haga aqui se lo haces a cliente 
-
-            //byte[] purodatachorizo = Encoding.UTF8.GetBytes("Soy el server, klk manin...");
-            //flujodatos.Write(purodatachorizo,0, purodatachorizo.Length);
-
-            //cierra conexion con cliente y stop del servidor
-
-
-            NetworkStream flujodatos;
-            string mensaje;
-            byte[] puro;
-            do
+            Thread tConsola = new Thread(LeerConsola);
+            tConsola.IsBackground = true;
+            tConsola.Start();
+            int contador = 1;
+            while (true)
             {
-                mensaje = Console.ReadLine();
-                flujodatos = cliente.GetStream();
-                puro = Encoding.UTF8.GetBytes(mensaje);
-                flujodatos.Write(puro, 0, puro.Length);
+                TcpClient cliente = miserverguapo.AcceptTcpClient();
+                clientes.Add(cliente);
 
+                Console.WriteLine($"Adepto numero {contador++}");
 
-            } while (mensaje != null);
-
-            cliente.Close();
-            miserverguapo.Stop();
-
+               // Thread t = new Thread(ElClientardo);
+              //  t.Start(cliente);
+            }
         }
+
+        //public void ElClientardo(object clientin)
+        //{
+        //    TcpClient cliente = (TcpClient)clientin;
+        //    NetworkStream flujo = cliente.GetStream();
+
+        //    byte[] b = new byte[1024];
+
+        //    while (true)
+        //    {
+        //        int lectura = flujo.Read(b, 0, b.Length);
+        //        if (lectura <= 0) break;
+
+        //        string mensaje = Encoding.UTF8.GetString(b, 0, lectura);
+        //        Console.WriteLine(mensaje);
+
+        //        byte[] d = Encoding.UTF8.GetBytes(mensaje);
+
+        //        // broadcast a todos
+        //        for (int i = 0; i < clientes.Count; i++)
+        //        {
+        //            NetworkStream stream = clientes[i].GetStream();
+        //            stream.Write(d, 0, d.Length);
+        //        }
+        //    }
+
+        //    cliente.Close();
+        //    clientes.Remove(cliente);
+        //}
+
+        public void LeerConsola()
+        {
+            while (true)
+            {
+                string mensaje = Console.ReadLine();
+                if (string.IsNullOrEmpty(mensaje)) continue;
+
+                byte[] d = Encoding.UTF8.GetBytes("[EL SERVER GOTY] " + mensaje + "\n");
+
+                for (int i = 0; i < clientes.Count; i++)
+                {
+                    NetworkStream stream = clientes[i].GetStream();
+                    stream.Write(d, 0, d.Length);
+                }
+            }
+        }
+
     }
+
 }
